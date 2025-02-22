@@ -46,6 +46,9 @@
   max-width: 240px;
   text-underline-offset: 4px;
   margin-right: 25px;
+}
+
+.header_address {
   justify-self: end;
 }
 
